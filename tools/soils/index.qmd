@@ -1,0 +1,49 @@
+---
+title: "{soils}"
+description: An R Package to generate customized soil health reports for your sampling project. Coding with R and Quarto required.
+author:
+  - name: Jadey Ryan
+    affiliation: WSDA
+  - name: Molly McIlquham
+    affiliation: WSU  
+  - name: Kwabena A Sarpong
+    affiliation: WSU
+  - name: Leslie M Michel
+    affiliation: WSDA
+  - name: Teal S Potter
+    affiliation: WSU
+  - name: Deirdre Griffin LaHue
+    affiliation: WSU
+  - name: Dani Gelardi
+    affiliation: WSDA
+date: 2024-03-01
+categories: 
+- Soil
+- Reports
+- Technical Service Provider
+image: featured.png
+links:
+- icon: box-fill
+  name: Package Website
+  url: https://wa-department-of-agriculture.github.io/soils/
+- icon: code-square
+  name: Code
+  url: https://github.com/WA-Department-of-Agriculture/dirt-data-reports/tree/main
+- icon: pencil-square
+  name: Blog Post
+  url: https://washingtonsoilhealthinitiative.com/2024/03/soils-an-r-package-for-soil-health-reporting/
+- icon: youtube
+  name: Webinar Recording
+  url: https://youtu.be/_8m7fTjSEOk?si=9y33OEPdceQLQ-IB
+---
+
+**{soils}** is an R package for all your soil health data visualization and
+reporting needs. {soils} provides an RStudio project template to generate
+customized, interactive soil health reports. These reports include plots and
+tables to show how the participant’s results compare to simple averages of
+results from samples of the same crop, same county, and across the entire
+project.
+
+For a no-code option, with less flexibility in content and aesthetic customization, see the [Dirt Data Reports web app](/tools/ddr/).
+
+[![](featured.png){.img-center fig-alt="soils R package hex sticker" width=500 target="_blank"}](https://wa-department-of-agriculture.github.io/soils/)

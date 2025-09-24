@@ -1,0 +1,5 @@
+published-title: "Released"
+format:
+  html:
+    template-partials:
+      - ../_partials/title-block-link-buttons/title-block.html

@@ -1,0 +1,41 @@
+---
+title: Dirt Data Reports
+description: A web app to generate customized soil health reports for your sampling project. No coding required.
+author:
+  - name: Jadey Ryan
+    affiliation: WSDA
+  - name: Tanya Shapiro
+    affiliation: IndieVisual LLC
+  - name: Molly McIlquham
+    affiliation: WSU  
+  - name: Leslie M Michel
+    affiliation: WSDA
+  - name: Teal S Potter
+    affiliation: WSU
+  - name: Deirdre Griffin LaHue
+    affiliation: WSU
+  - name: Dani Gelardi
+    affiliation: WSDA
+date: 2025-09-01
+categories: 
+- Soil
+- Reports
+- Technical Service Provider
+image: featured.png
+links:
+- icon: window
+  name: App
+  url: https://wsda.shinyapps.io/dirt-data-reports/
+- icon: code-square
+  name: Code
+  url: https://github.com/WA-Department-of-Agriculture/dirt-data-reports/tree/main
+- icon: pencil-square
+  name: Blog Post
+  url: https://washingtonsoilhealthinitiative.com/2025/09/dirt-data-reports/
+---
+
+**Dirt Data Reports** is a web-based tool that makes it easy for anyone to upload their soil sampling data, enter project-specific information, and generate customized, research-based soil health reports to make farmers’ soil health data accessible and actionable. 
+
+For more flexibility in content and aesthetic customization, see the [{soils} R package](/tools/soils/). This will require coding in [R](https://www.r-project.org/){target="_blank"} and using [Quarto](https://quarto.org/){target="_blank"}.
+
+[![](featured.png){.img-center fig-alt="Screenshot of app home page" target="_blank"}](https://wsda.shinyapps.io/dirt-data-reports/)

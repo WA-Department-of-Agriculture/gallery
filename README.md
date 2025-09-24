@@ -1,2 +1,3 @@
-# gallery
-A gallery of tools developed by WSDA for the Washington Soil Health Initiative 
+# WaSHI Tool Gallery
+
+A gallery of tools developed for the [Washington Soil Health Initiative](https://washingtonsoilhealthinitiative.com/). 

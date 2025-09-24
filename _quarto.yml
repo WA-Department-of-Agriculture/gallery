@@ -1,0 +1,42 @@
+project:
+  type: website
+  preview:
+    port: 3434
+    browser: true
+    watch-inputs: true
+    timeout: 3600
+
+execute:
+  freeze: auto
+
+website:
+  title: WaSHI Tool Gallery
+  description: "A gallery of tools developed for the Washington Soil Health Initiative"
+  site-url: https://wsda.quarto.pub/tools
+  repo-url: https://github.com/WA-Department-of-Agriculture/gallery
+  favicon: assets/img/washi-circle.png
+
+  navbar:
+   search: false
+   background: primary
+
+  page-footer:
+    border: true
+    background: primary
+    center: |
+      <a class="footer-link" href="https://washingtonsoilhealthinitiative.com/" title="Website" target="_blank">{{< fa globe >}}</a>
+      <a class="footer-link" href="https://www.linkedin.com/company/washington-soil-health-initiative" title="LinkedIn" target="_blank">{{< fa brands linkedin >}}</a>
+      <a class="footer-link" href="https://www.instagram.com/wasoilhealth/" title="Instagram" target="_blank">{{< fa brands instagram >}}</a>
+      <a class="footer-link" href="https://www.facebook.com/WashingtonSoilHealth" title="Facebook" target="_blank">{{< fa brands facebook >}}</a>
+      <a class="footer-link" href="https://twitter.com/wasoilhealth" title="X Twitter" target="_blank">{{< fa brands x-twitter >}}</a>
+      <a class="footer-link" href="mailto:washi@agr.wa.gov" title="Email" target="_blank">{{< fa envelope >}}</a>
+      <br>&#169; 2025 Washington Soil Health Initiative. All rights reserved.
+
+format:
+  html:
+    theme: [flatly, assets/styling/theme.scss]
+    smooth-scroll: true
+    grid:
+      body-width: 1200px
+      sidebar-width: 150px
+      margin-width: 300px

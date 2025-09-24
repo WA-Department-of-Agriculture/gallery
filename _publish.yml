@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 906ef373-d304-49db-bb9a-e56cab065734
+      url: https://wsda.quarto.pub/washi-gallery

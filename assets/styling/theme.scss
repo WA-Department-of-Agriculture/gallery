@@ -1,0 +1,141 @@
+/*-- scss:defaults --*/
+
+/* -----------------------------------------
+   Fonts and Root Variables
+----------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:wght@400;500;600&display=swap');
+
+$deep-green: #023B2C;
+$charcoal: #3E3D3D;
+$slate-blue: #335C67;
+$crimson: #A60F2D;
+$gold: #FCB040;
+$tan: #CCC29C;
+$cream: #F2F0E6;
+$link-blue: #3873be;
+
+$primary: $deep-green;
+$secondary: $charcoal;
+
+// Contrast
+$min-contrast-ratio: 7;
+
+/*-- scss:rules --*/
+
+/* -----------------------------------------
+   Global Styles & Layout Foundation
+----------------------------------------- */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Lato, sans-serif;
+  color: #333;
+}
+
+body {
+  background-color: $cream;
+}
+
+// style tools brought to you banner at bottom of page
+#hero-banner {
+  background-color: $tan;
+  padding: 1em;
+  margin-bottom: -1em;
+}
+
+// logo container to center logos
+.logo-container {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// make logo container the full width for small screens
+@media screen and (max-width: 800px) {
+  /* CSS rules for screens with a maximum width of 800px or less */
+  .logo-container {
+    width: 100%;
+  }
+}
+
+// align logos in one row
+.logo {
+  display: inline-block;
+  width: 33%;
+  max-width: 300px;
+  height: auto;
+  margin-left: -2px;
+  padding: 1em;
+  box-sizing: border-box;
+}
+
+// color link and add underline
+a, .a {
+  color: $link-blue;
+  text-decoration: underline;
+  transition: filter 0.3s ease;
+}
+
+// brighten link on hover
+a:hover {
+  filter: brightness(1.2);
+}
+
+// do not brighten images that have links
+a:has(img):hover {
+  filter: none;
+}
+
+h1, h2, h3 {
+  font-family: Poppins;
+  font-weight: bold;
+}
+
+// fix navbar title link colors
+.navbar-dark,.navbar[data-bs-theme=dark] {
+    --bs-navbar-color: #cedcd8;
+    --bs-navbar-hover-color: rgb(255 255 255 / 80%);
+    --bs-navbar-disabled-color: rgba(182, 198, 194, 0.75);
+    --bs-navbar-active-color: #ffffff;
+    --bs-navbar-brand-color: #cedcd8;
+    --bs-navbar-brand-hover-color: #ffffff;
+    --bs-navbar-toggler-border-color: rgba(182, 198, 194, 0);
+    --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23b6c6c2' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")
+}
+
+// social links in footer
+.footer-link {
+  color: #cedcd8;
+  font-size: 1.5em;
+  padding-left: 0.25em;
+  padding-right: 0.25em;
+}
+
+.footer-link:hover {
+  color: #ffffff;
+}
+
+// get rid of extra space above footer
+.page-rows-contents {
+    grid-template-rows: [content-top] minmax(max-content, 1fr) [content-bottom] minmax(0px, max-content) [page-bottom];
+}
+
+// move author and affiliation closer together
+#title-block-header.quarto-title-block.default .quarto-title-meta-author {
+    display: grid;
+    grid-template-columns: minmax(max-content, 0.1fr) 0.5fr;
+    grid-column-gap: 3em;
+    justify-content: start;
+}
+
+// center image
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// center text
+.center-text {
+  text-align: center;
+}
