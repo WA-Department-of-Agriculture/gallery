@@ -13,13 +13,10 @@ listing:
   fields: [image, date, title, description, categories]
 ---
 
-The **Washington Soil Health Initiative (WaSHI) Tool Gallery** is a
-"one-stop-shop" for web applications, calculators, and R packages developed to
-support science-based technical assistance for healthy soils.
+This **Tool Gallery** showcases applications, calculators, and R packages developed primarily by the [Washington State Department of Agriculture (WSDA)](https://agr.wa.gov/departments/land-and-water/natural-resources/soil-health) to support science-based technical assistance for healthy soils as part of the [Washington Soil Health Initiative (WaSHI)](https://washingtonsoilhealthinitiative.com).
 
 Each tile below links to a dedicated page with direct access to the tool, source
-code, and related blog posts -- offering a central place to explore and share
-the tools advancing soil health in Washington.
+code (if public), and related blog posts to explore and share the tools advancing soil health in Washington.
 
 ::: {#tools}
 :::
@@ -28,16 +25,12 @@ the tools advancing soil health in Washington.
 
 :::: {#hero-banner .column-screen}
 ::: center-text
-These tools are brought to you by the Washington State Department of
-Agriculture and Washington State University, funded by WaSHI.
+These tools are brought to you by WSDA and partners, funded by WaSHI.
 :::
 
 ::: {.logo-container}
 [![](assets/img/wsda.png){.logo
-title="Washington State Department of Agriculture"}](https://agr.wa.gov/departments/land-and-water/natural-resources/soil-health)
-[![](assets/img/washi.gif){.logo
+title="Washington State Department of Agriculture"}](https://agr.wa.gov/departments/land-and-water/natural-resources/soil-health) [![](assets/img/washi.gif){.logo
 title="Washington Soil Health Initiative"}](https://washingtonsoilhealthinitiative.com/)
-[![](assets/img/wsu.png){.logo
-title="Washington State University"}](https://soilhealth.wsu.edu/)
 :::
 ::::

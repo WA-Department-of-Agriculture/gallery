@@ -48,11 +48,12 @@ body {
   width: 70%;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 // make logo container the full width for small screens
 @media screen and (max-width: 800px) {
-  /* CSS rules for screens with a maximum width of 800px or less */
+  /* CSS rules for screens with a maximum width of 600px or less */
   .logo-container {
     width: 100%;
   }
@@ -61,11 +62,12 @@ body {
 // align logos in one row
 .logo {
   display: inline-block;
-  width: 33%;
+  width: 50%;
   max-width: 300px;
   height: auto;
   margin-left: -2px;
-  padding: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
   box-sizing: border-box;
 }
 
