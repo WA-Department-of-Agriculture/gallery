@@ -62,9 +62,8 @@ body {
 // align logos in one row
 .logo {
   display: inline-block;
-  width: 50%;
-  max-width: 300px;
-  height: auto;
+  width: auto;
+  max-height: 8em;
   margin-left: -2px;
   padding-left: 1em;
   padding-right: 1em;

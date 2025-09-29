@@ -29,7 +29,7 @@ These tools are brought to you by WSDA and partners, funded by WaSHI.
 :::
 
 ::: {.logo-container}
-[![](assets/img/wsda.png){.logo
+[![](assets/img/wsda-tall.png){.logo
 title="Washington State Department of Agriculture"}](https://agr.wa.gov/departments/land-and-water/natural-resources/soil-health) [![](assets/img/washi.gif){.logo
 title="Washington Soil Health Initiative"}](https://washingtonsoilhealthinitiative.com/)
 :::
