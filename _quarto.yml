@@ -15,6 +15,7 @@ website:
   site-url: https://wsda.quarto.pub/tools
   repo-url: https://github.com/WA-Department-of-Agriculture/gallery
   favicon: assets/img/washi-circle.png
+  google-analytics: "G-74YLHZJ8XN"
 
   navbar:
    search: false
