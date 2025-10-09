@@ -104,6 +104,11 @@ h1, h2, h3 {
     --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23b6c6c2' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")
 }
 
+// make navbar title text bold
+.navbar-title {
+  font-weight: bold;
+}
+
 // social links in footer
 .footer-link {
   color: #cedcd8;

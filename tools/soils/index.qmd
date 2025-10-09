@@ -22,6 +22,7 @@ categories:
 - Reports
 - Technical Service Provider
 image: featured.png
+image-alt: soils R package hex logo
 links:
 - icon: box-fill
   name: Package Website

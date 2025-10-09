@@ -22,6 +22,7 @@ categories:
 - Reports
 - Technical Service Provider
 image: featured.png
+image-alt: Screenshot of Dirt Data Reports app home page
 links:
 - icon: window
   name: App
