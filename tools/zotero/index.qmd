@@ -1,0 +1,25 @@
+---
+title: "Nutrient Management Library"
+description: Library of western US extension publications on nutrient management for Washington crops. Items link to university pages. Updated monthly for new publications.
+author:
+  - name: Adam Peterson
+    affiliation: WSDA
+  - name: Publications are from their respective authors
+date: 2025-10-09
+categories: 
+- Soil
+- Nutrient Management
+- Technical Service Provider
+image: featured.png
+image-alt: Screenshot of Zotero library
+links:
+- icon: collection-fill
+  name: Library
+  url: https://www.zotero.org/groups/5834929/wsda-hosted-fertilizer-guides-public/library
+---
+
+This curated Zotero library includes publications from land-grant universities across the western US, including Washington, Oregon, California, Idaho, Utah, Montana, Nevada, and Alaska. The collection focuses specifically on publications relevant to crops grown in Washington state, with each entry containing information related to nutrient management for the respective crop.
+
+Each publication in the library is directly linked to the hosted publication, allowing users to access the publication with a simple double-click. All links are verified on a weekly basis, and to ensure it remains up to date, the library is updated monthly with newly released publications that are relevant to this collection.
+
+[![](featured.png){.img-center fig-alt="Screenshot of Zotero library" width=100% target="_blank"}](https://www.zotero.org/groups/5834929/wsda-hosted-fertilizer-guides-public/library)
