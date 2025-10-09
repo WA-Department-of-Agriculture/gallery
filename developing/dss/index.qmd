@@ -3,7 +3,7 @@ title: Deep Soil Sampling Visualization
 description: A web app to visualize deep soil sampling data in a more accessible form.
 author:
   - name: Adam Peterson
-    affiliation: WSDA
+    affiliation: Washington State Department of Agriculture
 # date: 2025-10-01
 categories: 
 - Soil

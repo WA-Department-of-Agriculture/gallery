@@ -3,7 +3,7 @@ title: "Nutrient Management Library"
 description: Library of western US extension publications on nutrient management for Washington crops. Items link to university pages. Updated monthly for new publications.
 author:
   - name: Adam Peterson
-    affiliation: WSDA
+    affiliation: Washington State Department of Agriculture
   - name: Publications are from their respective authors
 date: 2025-10-09
 categories: 

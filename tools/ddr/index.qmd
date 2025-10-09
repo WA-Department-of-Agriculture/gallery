@@ -3,19 +3,19 @@ title: Dirt Data Reports
 description: A web app to generate customized soil health reports for your sampling project. No coding required.
 author:
   - name: Jadey Ryan
-    affiliation: WSDA
+    affiliation: Washington State Department of Agriculture
   - name: Tanya Shapiro
     affiliation: IndieVisual LLC
   - name: Molly McIlquham
-    affiliation: WSU  
+    affiliation: Washington State University  
   - name: Leslie M Michel
-    affiliation: WSDA
+    affiliation: Washington State Department of Agriculture
   - name: Teal S Potter
-    affiliation: WSU
+    affiliation: Washington State University
   - name: Deirdre Griffin LaHue
-    affiliation: WSU
+    affiliation: Washington State University
   - name: Dani Gelardi
-    affiliation: WSDA
+    affiliation: Washington State Department of Agriculture
 date: 2025-09-01
 categories: 
 - Soil

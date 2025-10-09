@@ -3,19 +3,19 @@ title: "{soils}"
 description: An R Package to generate customized soil health reports for your sampling project. Coding with R and Quarto required.
 author:
   - name: Jadey Ryan
-    affiliation: WSDA
+    affiliation: Washington State Department of Agriculture
   - name: Molly McIlquham
-    affiliation: WSU  
+    affiliation: Washington State University  
   - name: Kwabena A Sarpong
-    affiliation: WSU
+    affiliation: Washington State University
   - name: Leslie M Michel
-    affiliation: WSDA
+    affiliation: Washington State Department of Agriculture
   - name: Teal S Potter
-    affiliation: WSU
+    affiliation: Washington State University
   - name: Deirdre Griffin LaHue
-    affiliation: WSU
+    affiliation: Washington State University
   - name: Dani Gelardi
-    affiliation: WSDA
+    affiliation: Washington State Department of Agriculture
 date: 2024-03-01
 categories: 
 - Soil
