@@ -16,6 +16,7 @@ website:
   repo-url: https://github.com/WA-Department-of-Agriculture/gallery
   favicon: assets/img/washi-circle.png
   google-analytics: "G-74YLHZJ8XN"
+  back-to-top-navigation: true
 
   navbar:
    search: false
