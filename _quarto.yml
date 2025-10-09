@@ -1,7 +1,7 @@
 project:
   type: website
   preview:
-    port: 3434
+    port: 1600
     browser: true
     watch-inputs: true
     timeout: 3600

@@ -1,0 +1,22 @@
+---
+title: Deep Soil Sampling Visualization
+description: A web app to visualize deep soil sampling data in a more accessible form.
+author:
+  - name: Adam Peterson
+    affiliation: WSDA
+# date: 2025-10-01
+categories: 
+- Soil
+- Nutrient Management
+- Technical Service Provider
+image: ../coming-soon.png
+image-alt: "Photo of a field of corn with the text 'Coming Soon' overlayed. Photo credit: Leslie Michel, WSDA."
+# links:
+# - icon: window
+#   name: App
+#   url: https://wsda.shinyapps.io/dss-visualization/
+---
+
+Insert longer description here.
+
+<!-- [![](featured.png){.img-center fig-alt="Screenshot of app with inputs and soil profile visualization" target="_blank"}](https://wsda.shinyapps.io/dss-visualization/) -->
