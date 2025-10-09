@@ -16,14 +16,12 @@ website:
   repo-url: https://github.com/WA-Department-of-Agriculture/gallery
   favicon: assets/img/washi-circle.png
   google-analytics: "G-74YLHZJ8XN"
-  back-to-top-navigation: true
 
   navbar:
    search: false
    background: primary
 
   page-footer:
-    border: true
     background: primary
     center: |
       <a class="footer-link" href="https://washingtonsoilhealthinitiative.com/" title="Website" target="_blank">{{< fa globe >}}</a>

@@ -31,8 +31,6 @@ code (if public), and related blog posts to explore and share the tools advancin
 ::: {#tools}
 :::
 
-<br>
-
 ## Tools under development
 
 Learn about what we're currently working on!
