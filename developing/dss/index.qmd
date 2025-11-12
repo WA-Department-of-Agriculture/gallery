@@ -17,6 +17,9 @@ image-alt: "Photo of a field of corn with the text 'Coming Soon' overlayed. Phot
 #   url: https://wsda.shinyapps.io/dss-visualization/
 ---
 
-Insert longer description here.
+The **Deep Soil Sampling Visualization** app transforms technical soil data into accessible graphics and reports, complete with crop-specific interpretation. Deep soil sampling measures nitrogen and other nutrients at depth in the soil profile, revealing the history of nutrient management in a field. These results can show how nitrates have moved within the crop rooting zone or if they have moved below this zone - a critical indicator of potential groundwater contamination risk.
 
-<!-- [![](featured.png){.img-center fig-alt="Screenshot of app with inputs and soil profile visualization" target="_blank"}](https://wsda.shinyapps.io/dss-visualization/) -->
+This app also guides users to nutrient and irrigation management resources that help prevent nitrate leaching to groundwater, and connects them to current crop-specific resources in [WSDA’s Zotero Library](https://wsda.quarto.pub/washi-gallery/tools/zotero/).
+
+
+![](featured.png){.img-center fig-alt="Screenshot of the app home page" target="_blank"}
