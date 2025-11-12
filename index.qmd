@@ -21,7 +21,7 @@ listing:
     fields: [image, title, description, categories]
 ---
 
-This **Tool Gallery** showcases applications, calculators, and R packages developed primarily by the [Washington State Department of Agriculture (WSDA)](https://agr.wa.gov/departments/land-and-water/natural-resources/soil-health) to support science-based technical assistance for healthy soils as part of the [Washington Soil Health Initiative (WaSHI)](https://washingtonsoilhealthinitiative.com).
+This **Tool Gallery** showcases applications, calculators, R packages, and other resources developed primarily by the [Washington State Department of Agriculture (WSDA)](https://agr.wa.gov/departments/land-and-water/natural-resources/soil-health). These tools support science-based technical assistance for healthy soils as part of the [Washington Soil Health Initiative (WaSHI)](https://washingtonsoilhealthinitiative.com).
 
 Each tile links to a dedicated page with direct access to the tool, source
 code (if public), and related blog posts to explore and share the tools advancing soil health in Washington.
@@ -42,7 +42,7 @@ Learn about what we're currently working on!
 
 :::: {#hero-banner .column-screen}
 ::: center-text
-These tools are brought to you by WSDA and partners, funded by WaSHI.
+These tools are brought to you by WSDA and our many community partners.
 :::
 
 ::: {.logo-container}
