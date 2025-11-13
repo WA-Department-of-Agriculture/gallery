@@ -1,0 +1,32 @@
+---
+title: Manure PAN Calculator
+description: A web app to quickly calculate nitrogen released from manure. 
+author:
+  - name: Adam Peterson
+    affiliation: Washington State Department of Agriculture
+# date: 2025-10-01
+categories: 
+- Nutrient Management
+- Technical Service Provider
+- Calculator
+image: ../coming-soon.png
+image-alt: "Photo of a field of corn with the text 'Coming Soon' overlayed. Photo credit: Leslie Michel, WSDA."
+# links:
+# - icon: window
+#   name: App
+#   url: https://wsda.shinyapps.io/dss-visualization/
+---
+
+The **Manure PAN Calculator** will help users apply manure more precisely to meet crop nitrogen needs while avoiding over and under application. Users enter details about their manure application, such as rate, manure type, and nutrient test results, and the Manure PAN calculator calculates the quantity of plant-available nitrogen (PAN) using extension-based estimates. Graphics and tables in the app show nitrogen availability for the current year and in some cases, project plant available nitrogen that may be mineralized in future years.
+
+The calculator works in three distinct ways:
+
+1. PAN is calculated from known applications. Users input what has been applied from land application records. A graph and table is returned showing what quantity of PAN is supplied.
+
+2. Manure is matched to meet crop need. Users enter the nutrient test results for their manure and the nitrogen need of their crop. A rate of manure that will provide PAN to provide this need is then returned.
+
+3. Calculate PAN from continual applications. If a user has applied the same amount of manure of the same general nutrient content, the tool can calculate model the cumulative nitrogen applied from past years and the current year.
+
+The calculator can translate nutrient recommendations into real-world volumes, including the number of manure spreader loads needed to match their crop’s nitrogen need. Users can insert their spreader’s speed to estimate time requirements. This helps users determine whether their current equipment can realistically spread the amount of manure their crops need.
+
+![](featured.png){.img-center fig-alt="Screenshot of the app home page" target="_blank"}
