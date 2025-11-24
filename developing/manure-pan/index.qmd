@@ -19,6 +19,8 @@ image-alt: "Photo of a field of corn with the text 'Coming Soon' overlayed. Phot
 
 The **Manure PAN Calculator** will help users apply manure more precisely to meet crop nitrogen needs while avoiding over and under application. Users enter details about their manure application, such as rate, manure type, and nutrient test results, and the Manure PAN calculator calculates the quantity of plant-available nitrogen (PAN) using extension-based estimates. Graphics and tables in the app show nitrogen availability for the current year and in some cases, project plant available nitrogen that may be mineralized in future years.
 
+This tool is intended for Technical Service Providers (TSPs) and producers who regularly work with manure testing data.
+
 The calculator works in three distinct ways:
 
 1. PAN is calculated from known applications. Users input what has been applied from land application records. A graph and table is returned showing what quantity of PAN is supplied.
