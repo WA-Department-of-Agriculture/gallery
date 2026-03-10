@@ -8,7 +8,7 @@ By using or accessing this website, you are accepting the practices described in
 
 This website uses a third party service, Google Analytics, to collect, monitor and analyze information your browser sends whenever you visit pages on our site in order to improve our website and enhance your user experience. Google Analytics places a cookie on your device to accomplish this. This data may include browser type, your computer’s Internet Protocol (“IP”) address, the pages of our site that you visit, when you visit, time spent on our pages, and other statistics. Google Analytics does not collect any personal identifiers such as name or address. 
 
-From time to time, we may use non-personally-identifying information collected to report, in aggregate, trends and usage of the site. This anonymous, aggregated information helps us understand how people access and interact our website so we can improve the user experience.
+From time to time, we may use non-personally-identifying information collected to report, in aggregate, trends and usage of the site. This anonymous, aggregated information helps us understand how people access and interact with our website so we can improve the user experience.
 
 A more detailed explanation of how Google uses data from your browser can be found at <https://policies.google.com/privacy>.
 
