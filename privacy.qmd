@@ -1,0 +1,15 @@
+---
+title: "Privacy Policy"
+date: last-modified
+published-title: "Last updated"
+---
+
+By using or accessing this website, you are accepting the practices described in this privacy policy. Your use of the website indicates you have read and accepted our privacy policy. We reserve the right to update this policy by uploading the new policy directly to the website.  
+
+This website uses a third party service, Google Analytics, to collect, monitor and analyze information your browser sends whenever you visit pages on our site in order to improve our website and enhance your user experience. Google Analytics places a cookie on your device to accomplish this. This data may include browser type, your computer’s Internet Protocol (“IP”) address, the pages of our site that you visit, when you visit, time spent on our pages, and other statistics. Google Analytics does not collect any personal identifiers such as name or address. 
+
+From time to time, we may use non-personally-identifying information collected to report, in aggregate, trends and usage of the site. This anonymous, aggregated information helps us understand how people access and interact our website so we can improve the user experience.
+
+A more detailed explanation of how Google uses data from your browser can be found at <https://policies.google.com/privacy>.
+
+You may opt out of providing browsing information to Google Analytics at <https://tools.google.com/dlpage/gaoptout/>.

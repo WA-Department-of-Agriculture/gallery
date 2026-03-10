@@ -31,6 +31,9 @@ website:
       <a class="footer-link" href="https://twitter.com/wasoilhealth" title="X Twitter" target="_blank">{{< fa brands x-twitter >}}</a>
       <a class="footer-link" href="mailto:washi@agr.wa.gov" title="Email" target="_blank">{{< fa envelope >}}</a>
       <br>&#169; 2025 Washington Soil Health Initiative. All rights reserved.
+    right:
+      - text: <br>Privacy Policy
+        href: privacy.qmd
 
 format:
   html:
