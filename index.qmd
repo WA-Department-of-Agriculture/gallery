@@ -1,8 +1,8 @@
 ---
 pagetitle: WaSHI Tool Gallery
 listing:
-  - id: tools
-    contents: tools
+  - id: released
+    contents: released
     type: grid
     grid-columns: 3
     image-height: 20em
@@ -28,7 +28,7 @@ code (if public), and related blog posts to explore and share the tools advancin
 
 ## Released tools
 
-::: {#tools}
+::: {#released}
 :::
 
 ## Tools under development

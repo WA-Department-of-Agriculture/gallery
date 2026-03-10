@@ -4,17 +4,20 @@ description: A web app to visualize deep soil sampling data in a more accessible
 author:
   - name: Adam Peterson
     affiliation: Washington State Department of Agriculture
-# date: 2025-10-01
+date: 2026-03-01
 categories: 
 - Soil
 - Nutrient Management
 - Technical Service Provider
-image: ../coming-soon.png
-image-alt: "Photo of a field of corn with the text 'Coming Soon' overlayed. Photo credit: Leslie Michel, WSDA."
-# links:
-# - icon: window
-#   name: App
-#   url: https://wsda.shinyapps.io/dss-visualization/
+image: featured.png
+image-alt: Screenshot of the Deep Soil Sampling Visualization app home page
+links:
+- icon: window
+  name: App
+  url: https://wsda.shinyapps.io/dss-visualization/
+- icon: pencil-square
+  name: Blog Post
+  url: https://washingtonsoilhealthinitiative.com/2026/03/deep-soil-sampling/
 ---
 
 The **Deep Soil Sampling Visualization** app transforms technical soil data into accessible graphics and reports, complete with crop-specific interpretation. Deep soil sampling measures nitrogen and other nutrients at depth in the soil profile, revealing the history of nutrient management in a field. These results can show how nitrates have moved within the crop rooting zone or if they have moved below this zone - a critical indicator of potential groundwater contamination risk.
