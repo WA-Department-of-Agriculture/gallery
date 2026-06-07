@@ -1,6 +1,6 @@
 ---
 title: Manure PAN Calculator
-description: A web app to quickly calculate nitrogen released from manure. 
+description: A web app to quickly calculate plant-available nitrogen (PAN) released from manure. 
 author:
   - name: Adam Peterson
     affiliation: Washington State Department of Agriculture
