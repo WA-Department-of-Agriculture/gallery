@@ -15,7 +15,7 @@ website:
   site-url: https://wsda.quarto.pub/tools
   repo-url: https://github.com/WA-Department-of-Agriculture/gallery
   favicon: assets/img/washi-circle.png
-  google-analytics: "G-74YLHZJ8XN"
+  google-analytics: "G-LZSWB4EPZH"
 
   navbar:
    search: false
@@ -30,7 +30,7 @@ website:
       <a class="footer-link" href="https://www.facebook.com/WashingtonSoilHealth" title="Facebook" target="_blank">{{< fa brands facebook >}}</a>
       <a class="footer-link" href="https://twitter.com/wasoilhealth" title="X Twitter" target="_blank">{{< fa brands x-twitter >}}</a>
       <a class="footer-link" href="mailto:washi@agr.wa.gov" title="Email" target="_blank">{{< fa envelope >}}</a>
-      <br>&#169; 2025 Washington Soil Health Initiative. All rights reserved.
+      <br>&#169; 2025 - 2026 Washington Soil Health Initiative. All rights reserved.
     right:
       - text: <br>Privacy Policy
         href: privacy.qmd
