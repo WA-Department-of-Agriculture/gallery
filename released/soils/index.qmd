@@ -29,7 +29,7 @@ links:
   url: https://wa-department-of-agriculture.github.io/soils/
 - icon: code-square
   name: Code
-  url: https://github.com/WA-Department-of-Agriculture/dirt-data-reports/tree/main
+  url: https://github.com/WA-Department-of-Agriculture/soils/tree/main
 - icon: pencil-square
   name: Blog Post
   url: https://washingtonsoilhealthinitiative.com/2024/03/soils-an-r-package-for-soil-health-reporting/
