@@ -37,6 +37,6 @@ links:
 
 **Dirt Data Reports** is a web-based tool that makes it easy for anyone to upload their soil sampling data, enter project-specific information, and generate customized, research-based soil health reports to make farmers’ soil health data accessible and actionable. 
 
-For more flexibility in content and aesthetic customization, see the [{soils} R package](/tools/soils/). This will require coding in [R](https://www.r-project.org/){target="_blank"} and using [Quarto](https://quarto.org/){target="_blank"}.
+For more flexibility in content and aesthetic customization, see the [{soils} R package](/released/soils/). This will require coding in [R](https://www.r-project.org/){target="_blank"} and using [Quarto](https://quarto.org/){target="_blank"}.
 
 [![](featured.png){.img-center fig-alt="Screenshot of app home page" target="_blank"}](https://wsda.shinyapps.io/dirt-data-reports/)

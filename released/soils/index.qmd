@@ -45,6 +45,6 @@ tables to show how the participant’s results compare to simple averages of
 results from samples of the same crop, same county, and across the entire
 project.
 
-For a no-code option, with less flexibility in content and aesthetic customization, see the [Dirt Data Reports web app](/tools/ddr/).
+For a no-code option, with less flexibility in content and aesthetic customization, see the [Dirt Data Reports web app](/released/ddr/).
 
 [![](featured.png){.img-center fig-alt="soils R package hex sticker" width=500 target="_blank"}](https://wa-department-of-agriculture.github.io/soils/)
