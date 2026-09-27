@@ -10,6 +10,12 @@ execute:
   freeze: auto
 
 website:
+  announcement:
+    icon: exclamation-triangle-fill
+    content: "**We Moved!**<br>This page is no longer updated as of September 2026. Our new URL is [wsda-washi-gallery.share.connect.posit.cloud/](https://wsda-washi-gallery.share.connect.posit.cloud/)."
+    type: danger
+    dismissable: false
+    position: below-navbar
   title: WaSHI Tool Gallery
   description: "A gallery of tools developed for the Washington Soil Health Initiative"
   site-url: https://wsda.quarto.pub/tools
